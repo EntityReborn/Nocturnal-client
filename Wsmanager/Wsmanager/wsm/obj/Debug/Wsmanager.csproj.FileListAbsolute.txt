@@ -1,0 +1,9 @@
+C:\Users\ediro\Desktop\botdediscord\Wsmanager\Wsmanager\bin\Debug\Wsmanager.dll
+C:\Users\ediro\Desktop\botdediscord\Wsmanager\Wsmanager\bin\Debug\Wsmanager.pdb
+C:\Users\ediro\Desktop\botdediscord\Wsmanager\Wsmanager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ediro\Desktop\botdediscord\Wsmanager\Wsmanager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ediro\Desktop\botdediscord\Wsmanager\Wsmanager\obj\Debug\Wsmanager.csproj.AssemblyReference.cache
+C:\Users\ediro\Desktop\botdediscord\Wsmanager\Wsmanager\obj\Debug\Wsmanager.csproj.CoreCompileInputs.cache
+C:\Users\ediro\Desktop\botdediscord\Wsmanager\Wsmanager\obj\Debug\Wsmanager.csproj.CopyComplete
+C:\Users\ediro\Desktop\botdediscord\Wsmanager\Wsmanager\obj\Debug\Wsmanager.dll
+C:\Users\ediro\Desktop\botdediscord\Wsmanager\Wsmanager\obj\Debug\Wsmanager.pdb
